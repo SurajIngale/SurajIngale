@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Suraj Ingale  
-http://suraj-portfolio.dev/
+ https://surajingale.github.io/my-portfolio/
 
 🚀 **Full-Stack Developer | MERN Stack Enthusiast**  
 💡 Passionate about building scalable, high-performance web applications.  
